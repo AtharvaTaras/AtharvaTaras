@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artifical Intelligence, Computer Vision and 3D art.
 - 🌱 I’m currently learning artificial intelligence and data science.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 Get in touch - atharvataras26@gmail.com or https://www.linkedin.com/in/atharvataras/
+- 📫 Get in touch - atharvataras26@gmail.com
 
 <!---
 AtharvaTaras/AtharvaTaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
