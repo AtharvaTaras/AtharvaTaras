@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atharva Taras 
-- 👀 I’m interested in Machine Learning, Artifical Intelligence, Computer Vision and 3D art.
-- 🌱 I’m currently learning artificial intelligence and data science.
-- 💞️ I’m looking to collaborate on projects.
+- 👋 Hi there, I’m Atharva Taras 
+- 👀 I’m interested in Machine Learning, Artifical Intelligence, Computer Vision and 3D art
+- 🌱 I’m currently learning AI and Data Science
+- 💞️ I’m looking to collaborate on projects
 - 📫 Get in touch - atharvataras26@gmail.com
 
 <!---
