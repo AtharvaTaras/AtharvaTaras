@@ -21,17 +21,18 @@
 - ⚡ Fun fact - **I hate all programming languages except Python**
 
 ___
-
-<h3 align="left"> Programming Expertise </h3>
   
-> **Python** - Intermediate  
-> **HTML** - Intermediate  
-> **CSS** - Beginner  
-> **Javascript** - Beginner  
-> **SQL** - Beginner  
-> **Ruby** - Baby  
-> **R** - Baby  
-
+<pre>
+<h2 align="left">Programming Expertise </h2>
+ Python      Intermediate  
+ HTML        Intermediate  
+ CSS         Beginner  
+ Javascript  Beginner  
+ SQL         Beginner  
+ Ruby        Baby  
+ R           Baby  
+ 
+</pre>  
 ___
 
 <h3 align="left">Connect with Me</h3>
