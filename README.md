@@ -49,14 +49,11 @@ ___
 
 ___
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvataras" alt="atharvataras" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvataras&theme=oldie" alt="atharvataras" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvataras&show_icons=true&locale=en&layout=compact" alt="atharvataras" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvataras&show_icons=true&locale=en&layout=compact&theme=dark&private=true" alt="atharvataras" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvataras&show_icons=true&locale=en" alt="atharvataras" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvataras&" alt="atharvataras" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvataras&show_icons=true&locale=en&theme=dark"" alt="atharvataras" /></p>
 
 <!---
 AtharvaTaras/AtharvaTaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
