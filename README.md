@@ -28,8 +28,8 @@ ___
  HTML        Intermediate  
  CSS         Beginner  
  Javascript  Beginner  
- SQL         Beginner  
- Ruby        Baby  
+ SQL         Noob  
+ Ruby        Beginner  
  R           Baby  
  
 </pre>  
