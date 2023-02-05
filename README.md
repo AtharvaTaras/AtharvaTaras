@@ -6,17 +6,17 @@
 
 ---
 
-- 🔭 I’m currently working on [ADAS/OpenCV](https://github.com/AtharvaTaras/Driver-Attentiveness-System)
+- 🔭 I’m currently working on **[ADAS/OpenCV](https://github.com/AtharvaTaras/Driver-Attentiveness-System)**
 
 - 🌱 I’m currently studying **AI and Data Science at Pune University**
 
 - 👯 I’m looking to collaborate on **Data Science/ML projects**
 
-- 🎨 Art and Design Portfolio [https://hotfrostofficial.wixsite.com/hotfrost](https://hotfrostofficial.wixsite.com/hotfrost)
+- 🎨 Art and Design Portfolio **[(Website)](https://hotfrostofficial.wixsite.com/hotfrost)**
 
-- 💬 Ask me about **Blender, Stable Diffusion, NeRFs**
+- 💬 Ask me about **Blender, Stable Diffusion, OpenCV**
 
-- 📫 Get in touch **https://www.linkedin.com/in/atharvataras/**
+- 📫 Get in touch **[(LinkedIn)](https://www.linkedin.com/in/atharvataras/)**
 
 - ⚡ Fun fact - **I hate all programming languages except Python**
 
@@ -37,8 +37,9 @@ ___
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-<a href="https://twitter.com/hotfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotfrost_" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/atharvataras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvataras" height="30" width="40" /></a>
+<a href="https://twitter.com/hotfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotfrost_" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharvataras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvataras" height="30" width="40" /></a>
 <a href="https://fb.com/atharva taras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atharva taras" height="30" width="40" /></a>
 <a href="https://instagram.com/hotfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hotfrost_" height="30" width="40" /></a>
