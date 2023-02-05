@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Tkinter](https://github.com/AtharvaTaras/Tkinter-Study)
+- 🔭 I’m currently working on [ADAS/OpenCV](https://github.com/AtharvaTaras/Driver-Attentiveness-System)
 
 - 🌱 I’m currently studying **AI and Data Science at Pune University**
 
