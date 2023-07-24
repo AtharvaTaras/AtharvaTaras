@@ -18,7 +18,7 @@
 
 - 📫 Get in touch **[(LinkedIn)](https://www.linkedin.com/in/atharvataras/)**
 
-- ⚡ Fun fact - **I hate all programming languages except Python**
+- ⚡ Fun fact - **Python is my favourite programming language!**
 
 ___
   
