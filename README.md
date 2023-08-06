@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Machine Learning/Tensorflow]([https://github.com/AtharvaTaras/Driver-Attentiveness-System](https://github.com/AtharvaTaras/ML-Projects))**
+- 🔭 I’m currently working on **[Machine Learning/Tensorflow](https://github.com/AtharvaTaras/ML-Projects)**
 
 - 🌱 I’m currently studying **AI and Data Science at Pune University**
 
