@@ -23,15 +23,13 @@
 ___
   
 <pre>
-<h2 align="left">Programming Expertise </h2>
- Python      Intermediate  
+<h3 align="left">Programming Expertise </h3>
+ Python      Pro  
  HTML        Intermediate  
- CSS         Beginner  
- Javascript  Beginner  
- SQL         Noob  
- Ruby        Beginner  
+ Java        Intermediate  
+ SQL         Beginner  
+ Ruby        Baby  
  R           Baby  
- 
 </pre>  
 ___
 
