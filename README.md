@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Atharva Taras</h1>
+<h1 align="center">Hi there, I'm अथर्व तरस</h1>
 
 
 <h3 align="left">Languages and Tools</h3>
