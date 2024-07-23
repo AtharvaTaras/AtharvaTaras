@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science/ML projects**
 
-- 🎨 Art and Design Portfolio **[(Website)](https://hotfrostofficial.wixsite.com/hotfrost)**
+- 🎨 Art and Design Portfolio **[(ArtStation)](https://www.artstation.com/hotfrost)**
 
-- 💬 Ask me about **Blender, Stable Diffusion, OpenCV**
+- 💬 Ask me about **LLMs, Stable Diffusion, OpenCV**
 
 - 📫 Get in touch **[(LinkedIn)](https://www.linkedin.com/in/atharvataras/)**
 
