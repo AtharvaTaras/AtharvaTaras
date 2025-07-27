@@ -26,9 +26,9 @@
 <pre>
 <h3 align="left">Programming Expertise </h3>
  Python      Pro  
+ SQL         Intermediate 
  HTML        Intermediate  
- Java        Intermediate  
- SQL         Beginner  
+ Java        Beginner   
  Ruby        Baby  
  R           Baby  
 </pre>  
