@@ -47,17 +47,16 @@ ___
 <a href="https://www.hackerrank.com/atharvataras26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atharvataras26" height="30" width="40" /></a>
 </p>
 
-___
-<h3 align="left">GitHub Stats</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvataras&theme=oldie" alt="atharvataras" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvataras&show_icons=true&locale=en&theme=dark&private=true" alt="atharvataras" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvataras&show_icons=true&locale=en&theme=dark"" alt="atharvataras" /></p>
 
 
 <!---
 AtharvaTaras/AtharvaTaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Code not working Vercel blocked!
+___
+<h3 align="left">GitHub Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvataras&theme=oldie" alt="atharvataras" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvataras&show_icons=true&locale=en&theme=dark&private=true" alt="atharvataras" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvataras&show_icons=true&locale=en&theme=dark"" alt="atharvataras" /></p>
 --->
